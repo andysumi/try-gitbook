@@ -19,7 +19,8 @@
     "url": "https://github.com/andysumi/try-gitbook/issues"
   },
   "homepage": "https://github.com/andysumi/try-gitbook#readme",
-  "dependencies": {
-    "gitbook-cli": "^3.2.3"
+  "dependencies": {},
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
   }
 }
