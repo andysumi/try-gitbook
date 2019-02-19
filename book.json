@@ -1,9 +1,8 @@
 {
-  "plugins": ["uml"],
+  "plugins": ["code"],
   "pluginsConfig": {
-    "uml": {
-    "format": "png",
-    "nailgun": false
+    "code": {
+      "copyButtons": true
     }
   }
 }
